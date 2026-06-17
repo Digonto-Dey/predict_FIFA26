@@ -7,3 +7,10 @@ ipykernel>=6.0.0
 scipy
 scikit-learn
 cycler
+optuna
+xgboost
+lightgbm
+catboost
+shap
+plotly
+joblib
